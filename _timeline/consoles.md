@@ -10,4 +10,6 @@ events:
   - atari-2600
   - 3ds
   - gameboy
+  - ps1
+  - psvita
 ---

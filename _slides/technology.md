@@ -13,5 +13,7 @@ slides:
   - smalltalk
   - 3ds
   - gameboy
+  - ps1
+  - psvita
 ---
 
