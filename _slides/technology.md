@@ -15,5 +15,7 @@ slides:
   - gameboy
   - ps1
   - psvita
+  - walkman
+  - discman
 ---
 
