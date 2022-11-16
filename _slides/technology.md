@@ -17,5 +17,6 @@ slides:
   - psvita
   - walkman
   - discman
+  - wii-u
 ---
 
