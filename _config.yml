@@ -12,7 +12,7 @@ theme: minimal-mistakes-jekyll
 locale                   : "gr-GR"
 title                    : "Κατασκευή Συστημάτων Διάδρασης"
 title_separator          : "-"
-name                     : "Oroseira"
+name                     : "pibook"
 description              : "Making Interactivity Greek Book."
 url                      : "https://clinquant-puppy-6494fd.netlify.app/"
 baseurl                  : ""
