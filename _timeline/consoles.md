@@ -12,4 +12,5 @@ events:
   - gameboy
   - ps1
   - psvita
+  - wii-u
 ---
