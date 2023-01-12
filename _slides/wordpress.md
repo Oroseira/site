@@ -4,8 +4,17 @@ title: Η εξέλιξη των λογισμικών για τη δημιουρ�
 caption: Το WordPress είναι ελεύθερο και ανοικτού κώδικα λογισμικό που χρησιμοποιείται για τη δημιουργία ιστότοπων, blog ή εφαρμογών.
 image_url: /images/wordpress.png
 slides:
-  - xanadu-mockup
-  - xanadu-viewer3d
-  - html-app
-  - amaya-web-editor
+  - ibm2471
+  - engelbart-mouse
+  - smalltalk-scrollbar-left
+  - icons-documents
+  - norton-commander
+  - xerox-star-desktop
+  - vt100
+  - apple-mouse
+  - menus-on-windows
+  - menus-on-top
+  - igoefinger
+  - x-window-system
 ---
+
