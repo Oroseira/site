@@ -1,8 +1,8 @@
 ---
 layout: slides
 title: Η εξέλιξη των λογισμικών για τη δημιουργία ιστοσελίδων
-caption: Το WordPress είναι ελεύθερο και ανοικτού κώδικα λογισμικό που χρησιμοποιείται για τη δημιουργία ιστότοπων, blog ή εφαρμογών.
-image_url: /images/wordpress.png
+caption: Διαφάνειες για το κεφάλαιο Αρχέτυπα
+image_url: /images/xerox-star-desktop.png
 slides:
   - ibm2471
   - engelbart-mouse
@@ -17,4 +17,3 @@ slides:
   - igoefinger
   - x-window-system
 ---
-
