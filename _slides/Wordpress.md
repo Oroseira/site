@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: Η εξέλιξη των λογισμικών για τη δημιουργία ιστοσελίδων
+title: Αρχέτυπα
 caption: Διαφάνειες για το κεφάλαιο Αρχέτυπα
 image_url: /images/xerox-star-desktop.png
 slides:
