@@ -14,9 +14,9 @@ title                    : "Κατασκευή Συστημάτων Διάδρα
 title_separator          : "-"
 name                     : "Oroseira"
 description              : "Making Interactivity Greek Book."
-url                      : "https://oroseira2022.netlify.app"
+url                      : "incandescent-puppy-80c17f.netlify.app" 
 baseurl                  : ""
-repository               : "Oroseira/site"
+repository               : "Genti-voka/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -185,10 +185,10 @@ plugins:
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: liquid 
+  type: liquid
   path: /categories/
 tag_archive:
-  type: liquid 
+  type: liquid
   path: /tags/
 
 # HTML Compression
@@ -256,15 +256,15 @@ defaults:
       related: true
   - scope:
       path: ""
-      type: chapter 
+      type: chapter
     values:
-      layout: single 
+      layout: single
       header: no
   - scope:
       path: ""
-      type: timeline 
+      type: timeline
     values:
-      layout: timeline 
+      layout: timeline
       header: no
       show_meta: false
   - scope:
@@ -276,9 +276,9 @@ defaults:
       show_meta: false
   - scope:
       path: ""
-      type: gallery 
+      type: gallery
     values:
-      layout: image 
+      layout: image
       header: no
       show_meta: false
   - scope:
@@ -313,7 +313,7 @@ defaults:
       path: ""
       type: tag
     values:
-      comments: false 
+      comments: false
   - scope:
       path: ""
       type: category
