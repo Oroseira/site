@@ -14,9 +14,9 @@ title                    : "Κατασκευή Συστημάτων Διάδρα
 title_separator          : "-"
 name                     : "Oroseira"
 description              : "Making Interactivity Greek Book."
-url                      : "https://oroseira2022.netlify.app"
+url                      : "https://enchanting-donut-e4a736.netlify.app"
 baseurl                  : ""
-repository               : "Oroseira/site"
+repository               : "Chris-Livas/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
