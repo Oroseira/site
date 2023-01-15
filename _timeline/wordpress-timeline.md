@@ -1,11 +1,11 @@
---
+---
 layout: timeline
 title: Η εξέλιξη των λογισμικών για τη δημιουργία ιστοσελίδων
-image_url: /images/oracledesigner.jpeg
-caption: Το Oracle Designer είναι ένα πρωτοποριακό εργαλείο το οποίο διευκολύνει το σχεδιασμό διαγραμμάτων που χρησιμοποιούνται στην αρχιτεκτονική ενός συστήματος.
+image_url: /images/wordpress.png
+caption: Το WordPress είναι ελεύθερο και ανοικτού κώδικα λογισμικό που χρησιμοποιείται για τη δημιουργία ιστότοπων, blog ή εφαρμογών.
 events:
-  - mit-scratch
-  - reactivision-simulator
-  - grail-flow
-  - pygmalion
+  - xanadu-mockup
+  - xanadu-viewer3d
+  - html-app
+  - amaya-web-editor
 ---
