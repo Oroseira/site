@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: Αρχέτυπα
+title: Wordpress
 caption: Διαφάνειες για το κεφάλαιο Αρχέτυπα
 image_url: /images/xerox-star-desktop.png
 slides:
